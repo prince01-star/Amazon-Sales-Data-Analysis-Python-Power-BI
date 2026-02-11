@@ -6,6 +6,7 @@ This project delivers a complete end-to-end data analytics workflow — transfor
 The objective was to simulate a real-world business analytics scenario where stakeholders require clear visibility into sales performance, fulfillment efficiency, customer behavior, and revenue drivers.
 
 👉 The dataset contains **128,000+ transactions** across multiple product categories, cities, and fulfillment channels.
+<img width="1512" height="755" alt="Screenshot 2026-02-10 202023" src="https://github.com/user-attachments/assets/31f482d9-3ec6-4d07-8f63-07bf400c7da4" />
 
 ---
 
